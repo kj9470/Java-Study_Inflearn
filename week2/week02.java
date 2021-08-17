@@ -1,4 +1,4 @@
-public class Java100_variable_003 {
+public class week02 {
     public static void main(String[] args){
         short a = 'A';
         System.out.println(a); // 65
